@@ -1,6 +1,6 @@
 <?php
 
-require 'sum.php';
+
 require_once 'PHPUnit/Framework/TestCase.php';
 class functionTest extends PHPUnit_Framework_TestCase
 {
