@@ -1,7 +1,5 @@
 <?php
-
-
-
+require_once 'PHPUnit/Framework/TestCase.php';
 class functionTest extends PHPUnit_Framework_TestCase
 {
     public function sumReturnsTheCorrectValue()
